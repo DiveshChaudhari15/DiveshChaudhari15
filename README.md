@@ -6,7 +6,7 @@
 - 📫 How to reach me: 
   - 📧 Email: diveshchaudhari1111@gmail.com
   - 🌐 Portfolio: [Coming Soon!]
-  - 🔗 LinkedIn: [linkedin.com/in/divesh-chaudhari](https://www.linkedin.com/in/divesh-chaudhari)
+  - 🔗 LinkedIn: [linkedin.com/in/divesh-chaudhari](https://www.linkedin.com/in/divesh-chaudhari-306113232/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love combining creativity with code — whether it’s building AI chatbots or drawing imaginative artwork!
 
