@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Boot, React, and advanced concepts in NLP & AI.
 - 💞️ I’m looking to collaborate on open-source projects related to EdTech, Healthcare AI, and Smart Applications.
 - 📫 How to reach me: 
-  - 📧 Email: divchaudhari15@gmail.com
+  - 📧 Email: diveshchaudhari1111@gmail.com
   - 🌐 Portfolio: [Coming Soon!]
   - 🔗 LinkedIn: [linkedin.com/in/divesh-chaudhari](https://www.linkedin.com/in/divesh-chaudhari)
 - 😄 Pronouns: He/Him
